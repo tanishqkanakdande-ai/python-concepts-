@@ -1,0 +1,11 @@
+fruits = ["apple","peach","pear"]
+for fruit in fruits:
+    print(fruit)
+    print(fruit + "pie")
+    print(fruits)
+    
+    #this is a for loop and the loop is contionous till the end if you take the print(fruits)
+    #coloum backward from others you will see all the names of the fruits printed only once 
+    #but in normal thes are printed thrice as the no of fruits are 3 
+    
+    #which means after taking it backward for loop is ended
