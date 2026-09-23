@@ -1,0 +1,4 @@
+def my_function():   # my new function
+    print("hello")   # commond
+    print("bye")     # commond
+my_function()        #call back function so the code runs
